@@ -1,2 +1,2 @@
 # SQL-Tutorial
-All ponits related Oracle SQL discussed here.
+All points related Oracle SQL discussed here.
